@@ -7,6 +7,7 @@ Hello. Plain text here
 - do
 - bullet
 - list
-*asterisks work too
+
+* asterisks work too
 
 ## New Section
