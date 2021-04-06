@@ -7,3 +7,6 @@ Hello. Plain text here
 - do
 - bullet
 - list
+*asterisks work too
+
+## New Section
